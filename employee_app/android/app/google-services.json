@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1068839460946",
+    "firebase_url": "https://hr-mangement-system-2aef4-default-rtdb.firebaseio.com",
+    "project_id": "hr-mangement-system-2aef4",
+    "storage_bucket": "hr-mangement-system-2aef4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068839460946:android:c5bd5784b0681f70717f8b",
+        "android_client_info": {
+          "package_name": "com.example.authentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068839460946-pl5kb0bsm210lal33kuukn9fjtnh3aib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZhjX3O4Z67NqA6TQ9mzETEmC7jr9Mn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068839460946-pl5kb0bsm210lal33kuukn9fjtnh3aib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068839460946:android:eace7dfc2a802688717f8b",
+        "android_client_info": {
+          "package_name": "com.example.employee_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068839460946-pl5kb0bsm210lal33kuukn9fjtnh3aib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZhjX3O4Z67NqA6TQ9mzETEmC7jr9Mn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068839460946-pl5kb0bsm210lal33kuukn9fjtnh3aib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068839460946:android:df3cea29119d5a7c717f8b",
+        "android_client_info": {
+          "package_name": "com.example.hr_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068839460946-pl5kb0bsm210lal33kuukn9fjtnh3aib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZhjX3O4Z67NqA6TQ9mzETEmC7jr9Mn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068839460946-pl5kb0bsm210lal33kuukn9fjtnh3aib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
